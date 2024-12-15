@@ -1,0 +1,6 @@
+{
+    "mean_precision": 0.7493840973840973,
+    "variance_precision": 0.002147028398731068,
+    "mean_pr_auc": 0.7083547492057266,
+    "variance_pr_auc": 0.0003035369664491878
+}

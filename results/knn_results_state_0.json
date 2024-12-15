@@ -1,0 +1,9 @@
+{
+    "random_state": 0,
+    "best_params": {
+        "classifier__n_neighbors": 11,
+        "classifier__weights": "distance"
+    },
+    "precision": 0.625,
+    "pr_auc": 0.3053515360292578
+}

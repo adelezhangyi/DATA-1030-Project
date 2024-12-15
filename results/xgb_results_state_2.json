@@ -1,0 +1,25 @@
+{
+    "random_state": 2,
+    "best_params": {
+        "colsample_bytree": 0.6,
+        "gamma": 0,
+        "learning_rate": 0.1,
+        "max_depth": 10,
+        "scale_pos_weight": 5.711610486891386,
+        "subsample": 0.66
+    },
+    "precision": 0.8181818181818182,
+    "recall": 0.5294117647058824,
+    "f1": 0.6428571428571429,
+    "pr_auc": 0.6937422079687985,
+    "conf_matrix": [
+        [
+            186,
+            4
+        ],
+        [
+            16,
+            18
+        ]
+    ]
+}

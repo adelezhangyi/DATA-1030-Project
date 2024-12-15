@@ -1,0 +1,20 @@
+{
+    "random_state": 1,
+    "best_params": {
+        "max_depth": 30,
+        "max_features": 0.75,
+        "min_samples_split": 16
+    },
+    "precision": 0.5882352941176471,
+    "pr_auc": 0.5900262350664116,
+    "conf_matrix": [
+        [
+            177,
+            14
+        ],
+        [
+            13,
+            20
+        ]
+    ]
+}
