@@ -1,1 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directory
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+
+# Logs and local development files
+*.log
+*.out
+*.err
+*.pid
+*.db
+*.sqlite
+*.lock
+
+# Results and temporary outputs (exclude if generated locally)
+results/
+*.pkl
+*.h5
+*.model
+
+# Data files (raw or large datasets, optionally tracked elsewhere)
+data/
+*.csv
+*.xlsx
+*.json
+*.zip
+
+# Figures and generated images
+figures/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Python virtual environment and dependency management
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.iml
+
+# Environment configuration
+.env
+*.yaml
+*.yml
+
+# Compiled C extensions
+*.so
+
+# Test coverage
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+test_*.xml
+
+# Reports
+report/
+*.pdf
 
